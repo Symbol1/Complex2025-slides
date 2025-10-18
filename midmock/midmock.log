@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.15.0 (TeX Live 2022)  (format=lualatex 2023.1.4)  17 OCT 2025 09:00
+This is LuaHBTeX, Version 1.15.0 (TeX Live 2022)  (format=lualatex 2023.1.4)  17 OCT 2025 11:27
  system commands enabled.
  file:line:error style messages enabled.
 **/Users/ThinBold/Git/Complex2025-slides/midmock/midmock
@@ -595,12 +595,12 @@ Here is how much of LuaTeX's memory you used:
  100000,1977958 words of node,token memory allocated
  514 words of node memory still in use:
    6 hlist, 2 vlist, 2 rule, 2 glue, 4 kern, 1 glyph, 9 attribute, 55 glue_spec, 9 attribute_list, 2 write nodes
-   avail lists: 2:211,3:99,4:10,5:212,6:28,7:4262,8:21,9:162,10:6,11:146
+   avail lists: 2:211,3:99,4:10,5:214,6:28,7:4266,8:21,9:162,10:6,11:146
  36470 multiletter control sequences out of 65536+600000
  63 fonts using 34616871 bytes
  100i,5n,98p,430b,234s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </Users/ThinBold/Library/Fonts/NotoSerif-Regular.ttf></Users/ThinBold/Library/Fonts/NotoSansTC-Regular.otf></Users/ThinBold/Library/Fonts/NotoSerif-Bold.ttf></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb>
-Output written on midmock.pdf (1 page, 1340168 bytes).
+Output written on midmock.pdf (1 page, 1340172 bytes).
 
 PDF statistics: 66 PDF objects out of 1000 (max. 8388607)
  43 compressed objects within 1 object stream
