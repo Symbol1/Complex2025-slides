@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.15.0 (TeX Live 2022)  (format=lualatex 2023.1.4)  12 DEC 2025 10:12
+This is LuaHBTeX, Version 1.15.0 (TeX Live 2022)  (format=lualatex 2023.1.4)  12 DEC 2025 13:49
  system commands enabled.
  file:line:error style messages enabled.
 **/Users/ThinBold/Git/Complex2025-slides/finalmock/finalmock
@@ -613,7 +613,7 @@ Package luatex.def Info: white.png  used on input line 112.
 <spiral.png, id=29, 281.853pt x 278.2395pt>
 File: spiral.png Graphic file (type png)
 <use spiral.png>
-Package luatex.def Info: spiral.png  used on input line 122.
+Package luatex.def Info: spiral.png  used on input line 123.
 (luatex.def)             Requested size: 113.81102pt x 112.35097pt.
  [2<./spiral.png>] (./finalmock.aux))
 
@@ -622,12 +622,12 @@ Here is how much of LuaTeX's memory you used:
  100000,1977958 words of node,token memory allocated
  510 words of node memory still in use:
    6 hlist, 2 vlist, 2 rule, 2 glue, 4 kern, 1 glyph, 8 attribute, 55 glue_spec, 8 attribute_list, 2 write nodes
-   avail lists: 2:740,3:222,4:17,5:174,6:31,7:4134,8:182,9:372,10:4,11:200
+   avail lists: 2:740,3:222,4:17,5:174,6:31,7:4132,8:182,9:372,10:4,11:200
  36503 multiletter control sequences out of 65536+600000
  63 fonts using 34616871 bytes
  100i,5n,98p,434b,234s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </Users/ThinBold/Library/Fonts/NotoSerif-Regular.ttf></Users/ThinBold/Library/Fonts/NotoSansTC-Regular.otf></Users/ThinBold/Library/Fonts/NotoSerif-Bold.ttf></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr5.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb>
-Output written on finalmock.pdf (2 pages, 669891 bytes).
+Output written on finalmock.pdf (2 pages, 669932 bytes).
 
 PDF statistics: 83 PDF objects out of 1000 (max. 8388607)
  48 compressed objects within 1 object stream
